@@ -28,12 +28,12 @@ public class Calculadora {
     }
 
     public String getOperacion() {
-        return operacion;
+        return operador;
     }
 
     public void setOperacion(String operacion) {
-        this.operacion = operacion;
+        this.operador = operacion;
     }
     private String operador2;
-    private String operacion;
+    private String operador;
 }
