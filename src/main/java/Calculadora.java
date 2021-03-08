@@ -9,7 +9,7 @@
  * @author Miguel Ángel
  */
 public class Calculadora {
-    private int operador1;
-    private int operador2;
-    private int operacion;
+    private String operador1;
+    private String operador2;
+    private String operacion;
 }
